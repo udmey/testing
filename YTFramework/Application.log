@@ -1,0 +1,13 @@
+2021-11-02 15:59:02  [TC_1] (main:) Login is successfull
+2021-11-02 15:59:09  [TC_1] (main:) clicked on email
+2021-11-02 15:59:12  [TC_1] (main:) clicked on trending link
+2021-11-02 15:59:26  [TC_1] (main:) logged out successfully
+2021-11-09 14:27:31  [TC_2] (main:) clicked on History link
+2021-11-15 13:19:34  [TC_1] (main:) Login is successfull
+2021-11-15 13:19:36  [TC_1] (main:) clicked on email
+2021-11-15 13:19:39  [TC_1] (main:) clicked on trending link
+2021-11-15 13:19:50  [TC_1] (main:) logged out successfully
+2021-11-15 14:24:37  [TC_1] (main:) Login is successfull
+2021-11-15 14:24:40  [TC_1] (main:) clicked on email
+2021-11-15 14:24:48  [TC_1] (main:) clicked on trending link
+2021-11-15 14:25:01  [TC_1] (main:) logged out successfully
